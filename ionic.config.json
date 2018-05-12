@@ -1,0 +1,8 @@
+{
+  "name": "itknne",
+  "app_id": "cca21644",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
